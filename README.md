@@ -1,1 +1,3 @@
-# firstpython.py
+
+#display the output
+ ("New Python file")
